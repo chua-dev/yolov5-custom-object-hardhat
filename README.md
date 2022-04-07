@@ -13,8 +13,8 @@ iii) You Only Look Once had been one of the most reputable; and favored by alot 
 ### Datasets Information  
 Name: SafetyHelmetWearing-Dataset(SHWD), 安全帽佩戴检测数据集  
 Datasets description: Largly from construction image in China, but still include a portion from others country  
-Total Images: 7581 
-class 0 safety helmet: 9044 anno  
+Total Images              : 7581 images  
+class 0 safety helmet     : 9044 anno  
 class 1 normal head person: 111514 anno (I include some normal cap helmet so model wont make normal cap mistake)  
 Note: Some normal head person are from SCUT-HEAD  
 
