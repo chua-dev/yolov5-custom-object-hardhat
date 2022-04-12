@@ -28,29 +28,29 @@ The datasets i collected are annotated in VOC .xml method, the yolo v5 require u
 ![Precision](https://github.com/chua-dev/yolov5-custom-object-hardhat/blob/master/runs/train/exp2_train/P_curve.png)  
 
 #### Precision & Recall  
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)  
+![alt text](https://github.com/chua-dev/yolov5-custom-object-hardhat/blob/master/runs/train/exp2_train/PR_curve.png)  
 
 #### Recall  
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)  
+![alt text](https://github.com/chua-dev/yolov5-custom-object-hardhat/blob/master/runs/train/exp2_train/R_curve.png)  
 
 #### 30 Epoch Result  
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)  
+![alt text](https://github.com/chua-dev/yolov5-custom-object-hardhat/blob/master/runs/train/exp2_train/results.png)  
 
 #### Prediction Validation Image Compare to Label  
 Label 0  
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)  
+![alt text](https://github.com/chua-dev/yolov5-custom-object-hardhat/blob/master/runs/train/exp2_train/val_batch0_labels.jpg)  
 
 Pred 0  
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)  
+![alt text](https://github.com/chua-dev/yolov5-custom-object-hardhat/blob/master/runs/train/exp2_train/val_batch0_pred.jpg)  
 
 Label 1  
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)  
+![alt text](https://github.com/chua-dev/yolov5-custom-object-hardhat/blob/master/runs/train/exp2_train/val_batch1_labels.jpg)  
 
 Pred 1  
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)  
+![alt text](https://github.com/chua-dev/yolov5-custom-object-hardhat/blob/master/runs/train/exp2_train/val_batch1_pred.jpg)  
 
 Label 2  
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)  
+![alt text](https://github.com/chua-dev/yolov5-custom-object-hardhat/blob/master/runs/train/exp2_train/val_batch2_labels.jpg)  
 
 Pred 2  
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)  
+![alt text](https://github.com/chua-dev/yolov5-custom-object-hardhat/blob/master/runs/train/exp2_train/val_batch2_pred.jpg)  
