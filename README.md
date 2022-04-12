@@ -25,7 +25,7 @@ The datasets i collected are annotated in VOC .xml method, the yolo v5 require u
 ### Training Result (12/4/22)  
 
 #### Precision  
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)  
+![Precision](https://github.com/chua-dev/yolov5-custom-object-hardhat/blob/master/runs/train/exp2_train/P_curve.png)  
 
 #### Precision & Recall  
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)  
