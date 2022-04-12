@@ -20,3 +20,37 @@ Note: Some normal head person are from SCUT-HEAD
 
 ### Data Preprocessing
 The datasets i collected are annotated in VOC .xml method, the yolo v5 require us to use YOLO txt annotation format, I managed to convert from xml to txt YOLO by using [this method](https://github.com/chua-dev/yolov5-xml-VOC_anno--to-txt-YOLO_format-). 
+
+
+### Training Result (12/4/22)  
+
+#### Precision  
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)  
+
+#### Precision & Recall  
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)  
+
+#### Recall  
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)  
+
+#### 30 Epoch Result  
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)  
+
+#### Prediction Validation Image Compare to Label  
+Label 0  
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)  
+
+Pred 0  
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)  
+
+Label 1  
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)  
+
+Pred 1  
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)  
+
+Label 2  
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)  
+
+Pred 2  
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)  
